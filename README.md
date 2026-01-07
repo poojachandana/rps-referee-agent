@@ -1,4 +1,7 @@
 # Rock Paper Scissors Referee Agent (RPS Plus)
+OUTPUT
+
+![Image](image.png)
 
 ## Overview
 This project implements a minimal conversational AI referee for a Rock–Paper–Scissors–Plus game.  
